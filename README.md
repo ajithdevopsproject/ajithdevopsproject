@@ -1,10 +1,5 @@
 <!-- Profile Image -->
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1yrHxbnuLAhMbCqZT0qCo6_cSA2_arRo8" 
-       alt="Ajith.A Profile Image" 
-       width="200" 
-       style="border-radius: 50%; border: 4px solid #0D47A1; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-</p>
+
 
 <!-- Banner -->
 <p align="center">
@@ -90,7 +85,7 @@ Over the past **2 years**, I have expanded into **cloud computing**, leading pro
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajith-achennnai)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajithtechcloud@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://your-resume-link.com)
+  [![Resume](https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://drive.google.com/file/d/1FhSu_e51YyfTp7j-6EBMp5Il3Dq1rKfx/view?usp=sharing)
 
 </div>
 

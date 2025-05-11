@@ -64,9 +64,8 @@ Over the past **2 years**, I have expanded into **cloud computing**, leading pro
 ---
 
 ## 🏆 Certifications
-- ✅ **AWS Certified Solutions Architect** – Associate
-- ✅ **Certified Kubernetes Administrator (CKA)**
-- ✅ **Azure Administrator Associate (AZ-104)**
+
+
 
 ---
 
